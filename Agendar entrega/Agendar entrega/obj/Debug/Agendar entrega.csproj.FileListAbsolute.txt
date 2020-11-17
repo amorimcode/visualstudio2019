@@ -1,0 +1,10 @@
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\bin\Debug\Agendar entrega.exe.config
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\bin\Debug\Agendar entrega.exe
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\bin\Debug\Agendar entrega.pdb
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\obj\Debug\Agendar entrega.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\obj\Debug\Agendar_entrega.Form.resources
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\obj\Debug\Agendar_entrega.Properties.Resources.resources
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\obj\Debug\Agendar entrega.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\obj\Debug\Agendar entrega.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\obj\Debug\Agendar entrega.exe
+C:\Users\bruno\source\repos\Agendar entrega\Agendar entrega\obj\Debug\Agendar entrega.pdb

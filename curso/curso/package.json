@@ -1,0 +1,9 @@
+{
+  "name": "curso",
+  "version": "0.0.0",
+  "description": "curso",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

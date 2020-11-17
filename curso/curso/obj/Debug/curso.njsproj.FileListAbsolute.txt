@@ -1,0 +1,3 @@
+C:\Users\bruno\source\repos\curso\curso\obj\Debug\curso.njsprojAssemblyReference.cache
+C:\Users\bruno\source\repos\curso\curso\obj\Debug\curso.njsproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\curso\curso\bin\Microsoft.NodejsTools.WebRole.dll

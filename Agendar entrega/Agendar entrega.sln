@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agendar entrega", "Agendar entrega\Agendar entrega.csproj", "{AD291BBD-99D3-40B7-A1E2-B3FAC3B4004D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD291BBD-99D3-40B7-A1E2-B3FAC3B4004D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD291BBD-99D3-40B7-A1E2-B3FAC3B4004D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD291BBD-99D3-40B7-A1E2-B3FAC3B4004D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD291BBD-99D3-40B7-A1E2-B3FAC3B4004D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F21E97D-0F75-4AC8-B18A-10D7D17A7A22}
+	EndGlobalSection
+EndGlobal

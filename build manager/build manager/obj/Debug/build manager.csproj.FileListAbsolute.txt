@@ -1,0 +1,10 @@
+C:\Users\bruno\source\repos\build manager\build manager\bin\Debug\build manager.exe.config
+C:\Users\bruno\source\repos\build manager\build manager\bin\Debug\build manager.exe
+C:\Users\bruno\source\repos\build manager\build manager\bin\Debug\build manager.pdb
+C:\Users\bruno\source\repos\build manager\build manager\obj\Debug\build manager.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\build manager\build manager\obj\Debug\build_manager.Form1.resources
+C:\Users\bruno\source\repos\build manager\build manager\obj\Debug\build_manager.Properties.Resources.resources
+C:\Users\bruno\source\repos\build manager\build manager\obj\Debug\build manager.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\build manager\build manager\obj\Debug\build manager.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\build manager\build manager\obj\Debug\build manager.exe
+C:\Users\bruno\source\repos\build manager\build manager\obj\Debug\build manager.pdb

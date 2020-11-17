@@ -1,0 +1,10 @@
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\bin\Debug\Gerenciar financeiro.exe.config
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\bin\Debug\Gerenciar financeiro.exe
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\bin\Debug\Gerenciar financeiro.pdb
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\obj\Debug\Gerenciar financeiro.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\obj\Debug\Gerenciar_financeiro.Form1.resources
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\obj\Debug\Gerenciar_financeiro.Properties.Resources.resources
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\obj\Debug\Gerenciar financeiro.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\obj\Debug\Gerenciar financeiro.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\obj\Debug\Gerenciar financeiro.exe
+C:\Users\bruno\source\repos\Gerenciar financeiro\Gerenciar financeiro\obj\Debug\Gerenciar financeiro.pdb
